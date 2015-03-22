@@ -1,6 +1,6 @@
 {
   "name": "interval-intersection",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "compute the intersection between two intervals",
   "main": "interval-intersection.js",
   "scripts": {
