@@ -1,0 +1,29 @@
+{
+  "name": "interval-intersection",
+  "version": "0.0.0",
+  "description": "compute the intersection between two intervals",
+  "main": "interval-intersection.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/interval-intersection.git"
+  },
+  "keywords": [
+    "interval",
+    "intersection",
+    "intersect",
+    "isect",
+    "boolean"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/interval-intersection/issues"
+  },
+  "homepage": "https://github.com/tmpvar/interval-intersection",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
